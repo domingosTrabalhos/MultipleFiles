@@ -10,7 +10,8 @@ int somanumero(int numero, int numero2){
 }
 
 void username(int user){
-    printf("Username %d ",  somanumero(123,user));
+    EXAMPLE  *nome ;
+        printf("Username %d ",  somanumero(123,user));
 
 }
 

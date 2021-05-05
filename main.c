@@ -6,6 +6,7 @@ int main() {
     printf("Hello, World!\n");
     username(1223);
     imprimir();
+    EXAMPLE  *nome ;
     return 0;
 }
 
