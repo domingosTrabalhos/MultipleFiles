@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/estg-ipvc/CLionProjects/Multiple Files/Test.c
+stdio.h
+-
+Test.h
+/Users/estg-ipvc/CLionProjects/Multiple Files/Test.h
+
+/Users/estg-ipvc/CLionProjects/Multiple Files/Test.h
+
+/Users/estg-ipvc/CLionProjects/Multiple Files/main.c
+stdio.h
+-
+Test.h
+/Users/estg-ipvc/CLionProjects/Multiple Files/Test.h
+main.h
+/Users/estg-ipvc/CLionProjects/Multiple Files/main.h
+
+/Users/estg-ipvc/CLionProjects/Multiple Files/main.h
+
